@@ -13,3 +13,8 @@ prefer the Conservative party over the Liberals, with the non-mainline Protestan
 
 This was my final project for Stanford's STATS305B Applied Statistics II course in Winter 2023.
 
+The repository includes:
+* R code for cleaning the 2004 and 2021 CES survey data, exploration of if the demographics in the survey were proportional with the population,
+and the code for fitting the multinomial logistic regression
+* The final report on the project, including an introduction to the issue, the hypotheses being tested,
+  the data and methodology, the results of the logistic regression, and conclusions
